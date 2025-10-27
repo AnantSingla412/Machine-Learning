@@ -1,0 +1,81 @@
+Level,Week,Topic,Sub Topic,Description,Link 1
+0,1,Introduction to Python,What is Python?,"About python, installing python and run the basic python code",https://www.python.org/doc/essays/blurb/
+,,,Installing Python,,https://www.python.org/downloads/
+,,,Basic syntax,,https://www.w3schools.com/python/python_syntax.asp
+,,Data Structures in Python,Lists,"Common data structures in programming like list, tuple, dictionaries etc.",https://www.w3schools.com/python/python_lists.asp
+,,,Tuples,,https://www.w3schools.com/python/python_tuples.asp
+,,,Dictionaries,,https://www.w3schools.com/python/python_dictionaries.asp
+,,,Sets,,https://www.w3schools.com/python/python_sets.asp
+,,,Strings,,https://www.w3schools.com/python/python_strings.asp
+,,Control Flow in Python,Conditional statements,"Control flow elements in programming, including conditional statements, loops, break and continue statements etc.",https://www.w3schools.com/python/python_conditions.asp
+,,,Loops,,https://www.w3schools.com/python/python_while_loops.asp
+,,,Break and continue statements,,https://www.w3schools.in/python/break-and-continue
+,,,Error handling,,https://www.w3schools.com/python/python_try_except.asp
+,,Functions and Modules in Python,Creating and using functions,"functions are used to encapsulate code for reusability, modules provide pre-built functionality, and custom modules",https://www.w3schools.com/python/python_functions.asp
+,,,Importing modules,,https://www.w3schools.com/python/python_modules.asp
+,,,Creating and using custom modules,,https://www.w3schools.com/python/python_modules.asp
+,2,Object-Oriented Programming in Python,Classes and objects,"object-oriented programming, classes and objects are used to model real-world entities, inheritance and polymorphism",https://www.w3schools.com/python/python_classes.asp
+,,,Inheritance and polymorphism,,https://www.w3schools.com/python/python_inheritance.asp
+,,,Encapsulation,,https://www.geeksforgeeks.org/encapsulation-in-python/
+,,,Special methods,,https://www.w3schools.com/python/python_ref_functions.asp
+,,Working with Files in Python,Opening and reading files,"File operations in programming encompass opening and reading files, writing data to files",https://www.w3schools.com/python/python_file_handling.asp
+,,,Writing to files,,https://www.w3schools.com/python/python_file_write.asp
+,,,Working with CSV and JSON files,,https://www.w3schools.com/python/python_json.asp
+,,Python Environments,venv,"A virtual environment is a self-contained, isolated Python environment that allows you to manage project-specific dependencies independently.",https://docs.python.org/3/tutorial/venv.html
+,,,pip,,https://www.w3schools.com/python/python_pip.asp
+,,,pip freeze,,https://pip.pypa.io/en/stable/cli/pip_freeze/
+,,Web Development with Python,Flask web framework,Web development with Python involves creating web applications using Python programming language,https://www.tutorialspoint.com/flask/index.htm
+,3,,Django web framework,,https://www.w3schools.com/django/
+,,Data Science with Python,NumPy,"NumPy provides array and numerical operations, Pandas offers data manipulation tools, and Matplotlib facilitates data visualization in Python.",https://www.w3schools.com/python/numpy/numpy_intro.asp
+,,,Pandas,,https://www.w3schools.com/python/pandas/pandas_intro.asp
+,,,Matplotlib,,https://www.w3schools.com/python/matplotlib_intro.asp
+,4,Basics of ML,"What is Machine learning, Types of Machine learning, Applications of ML, Life Cycle of ML",About Machine learning and its applications,https://www.javatpoint.com/machine-learning
+,,Linear Algebra,"Matrices, Vectors, Matrix multiplication, Transpose, Determinant, Eigenvalues and eigenvectors, Singular value decomposition","Linear Algebra, probability, and Statistics that used in machine learning",https://www.khanacademy.org/math/linear-algebra
+,,Probability Theory,"Probability Distributions, Conditional Probability, Bayes' Theorem, Central Limit Theorem, Hypothesis Testing, Confidence Intervals, Maximum Likelihood Estimation, Bayesian Inference",,https://www.khanacademy.org/math/probability
+,5,Statistics,"Descriptive Statistics, Inferential Statistics, Correlation, Regression Analysis, Analysis of Variance, Non-parametric Tests, Time Series Analysis, Experimental Design, Statistical Modeling, Statistical Inference, Bayesian Statistics",,https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data
+,,Data Preprocessing ,"Data Cleaning, Data Transformation, Data Normalization, Data Scaling, Data Encoding, Data Imputation, Handling Missing Data, Data Reduction, Data Integration, Data Sampling",Preprocessing Technique used in Data,https://www.javatpoint.com/data-preprocessing-machine-learning
+,6,Feature Engineering,"Feature Selection, Feature Extraction, Feature Encoding, Dimensionality Reduction, Principal Component Analysis, Linear Discriminant Analysis, t-SNE, Autoencoders","Feature engineering techniques like feature selection, New features creating, PCA, LDA, etc",https://www.javatpoint.com/feature-engineering-for-machine-learning
+,,Model Selection ,"Train-Test Split, Cross-validation, Hyperparameter Tuning, Grid Search, Random Search","Splitting Data into train test, Hyperparameter tunning for model selection",https://medium.com/@datasciencewizards/a-guide-to-data-splitting-in-machine-learning-49a959c95fa1 
+,,Model Evaluation,"Confusion Matrix, Accuracy, Precision, Recall, F1-score, ROC curve, AUC score, Mean Squared Error, Root Mean Squared Error, R-squared","Model Evaluation for regression and classification matrix like MSE, MAE, R-Squared, F1-Score etc",https://medium.com/analytics-vidhya/machine-learning-metrics-in-simple-terms-d58a9c85f9f6
+,7,Regression,"Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, ElasticNet Regression",Machine Learning supervised Learning Technique: Regression and classification,https://www.javatpoint.com/regression-analysis-in-machine-learning
+,,Classification ,"Logistic Regression, Naive Bayes, k-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machines",,https://www.analyticsvidhya.com/blog/2021/05/5-classification-algorithms-you-should-know-introductory-guide/
+,8,Clustering,"K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models",Unsupervised Machine Learning Technique: Clusting,https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/
+,,Ensemble Methods,"Bagging, Boosting, Stacking, Random Forest, Gradient Boosting","Boosting (catboost, xgboost), Bagging (Random Forest)",https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+,,Regularization,"L1 Regularization, L2 Regularization, ElasticNet Regularization",Reguralization technique for hangling overfitting,https://www.analyticsvidhya.com/blog/2022/08/regularization-in-machine-learning/
+,9,Gradient Descent,"Batch Gradient Descent, Stochastic Gradient Descent, Mini-batch Gradient Descent, Momentum, Nesterov Accelerated Gradient Descent, Adagrad, Adadelta, RMSprop, Adam",Gradient Descent is an optimization algorithm used to minimize the cost or loss function in machine learning,https://www.ruder.io/optimizing-gradient-descent/
+,,SVM,"Linear SVM, Kernel SVM",a supervised machine learning algorithm used for classification and regression tasks.,https://www.javatpoint.com/machine-learning-support-vector-machine-algorithm
+,,Decision Trees,"CART, ID3, C4.5, Pruning, Random Forest, Gradient Boosting",Decision Trees are a popular machine learning algorithm used for both classification and regression tasks,https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/
+,,Random Forest,"Bagging, Random Subspace Method, Random Patches Method",Random Forest is an ensemble learning method in machine learning.,https://www.javatpoint.com/machine-learning-random-forest-algorithm
+,,Neural Networks,"Feedforward Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory Networks",Neural networks are a class of machine learning models inspired by the structure and function of the human brain,https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
+,10,Image Processing,Image Filtering,Image processing is a field of computer science that involves manipulating and analyzing digital images to enhance or extract information,https://medium.com/@shashikadilhani97/digital-image-processing-filters-832ec6d18a73
+,,,Edge Detection,,https://towardsdatascience.com/easy-method-of-edge-detection-in-opencv-python-db26972deb2d
+,,,Image Transformation,,https://analyticsindiamag.com/complete-tutorial-on-image-transformations-with-opencv/
+,,,Image Enhancement,,https://towardsdatascience.com/image-enhancement-techniques-using-opencv-and-python-9191d5c30d45
+,,,Morphological Operations,,https://pyimagesearch.com/2021/04/28/opencv-morphological-operations/
+,,Object Detection,R-CNN,Object detection is a computer vision task where the goal is to identify and locate objects within an image or video.,https://viso.ai/deep-learning/mask-r-cnn/
+,,,Fast R-CNN,,
+,,,Faster R-CNN,,
+,,,Mask R-CNN,,
+,,,YOLO (You Only Look Once),,https://www.v7labs.com/blog/yolo-object-detection
+,,,SSD (Single Shot Detector),,https://jonathan-hui.medium.com/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06
+,11,Vision,Custom Vision,Azure provides a suite of computer vision services to enable a wide range of vision-related tasks and applications in the cloud.,https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/overview
+,,,Computer Vision : OCR,,https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr
+,,,Computer Vision : Image Analytics,,https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-image-analysis?tabs=4-0
+,,,Computer Vision : Spatial Analysis,,https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview
+,,,Computer Vision : Face API,,https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-identity
+,,Speech,Speech to text,Azure offers a comprehensive suite of speech services to process and generate human speech in various languages and contexts,https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text
+,,,Text to Speech,,https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/text-to-speech
+,,,Speech translation,,https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-translation
+,,,Speech recognition,,https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speaker-recognition-overview
+,12,Language,Entity recognition,"Azure's language services encompass a variety of capabilities including Entity Recognition, Sentiment Analysis, Question Answering, Conversational Language Understanding, and Translator",https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/text-analytics-for-health/overview?tabs=ner
+,,,Sentimnt Analysis,,https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview
+,,,Question Answering,,https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/question-answering/overview
+,,,Conversational language understanding,,https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/conversational-language-understanding/overview
+,,,Translator,,https://learn.microsoft.com/en-us/azure/cognitive-services/translator/translator-overview
+,,Decision,Anomaly Detector,"Azure's decision-related services that empower applications with the ability to make informed and automated decisions, detect anomalies, moderate content, and personalize user experiences.",https://learn.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/overview
+,,,Content Moderator,,https://learn.microsoft.com/en-us/azure/cognitive-services/content-moderator/overview
+,,,Personalizer,,https://learn.microsoft.com/en-us/azure/cognitive-services/personalizer/what-is-personalizer
+,13,Azure OpenAI Service,OpenAI Service,Azure's OpenAI Service integrates OpenAI's advanced language capabilities into Azure's ecosystem,https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
+,,Deployment,Azure Functions,"Deployment in Azure encompasses various services like Azure Functions, Azure Logic Apps, and Azure App Service, providing versatile options for hosting and running applications to meet different needs.",https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview
+,,,Azure Logic Apps,,https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
+,,,Azure App Service,,https://learn.microsoft.com/en-us/azure/app-service/overview
